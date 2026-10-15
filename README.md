@@ -49,7 +49,7 @@ delete_todo()
 ## Run Locally
 
 ```bash
-git clone https://github.com/your-username/AI-Task-Manager.git
+git clone https://github.com/Raj-Raaz/AI-Task-Manager.git
 cd AI-Task-Manager
 
 pip install -r requirements.txt
